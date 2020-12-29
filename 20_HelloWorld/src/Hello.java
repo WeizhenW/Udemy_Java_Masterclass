@@ -6,6 +6,6 @@ public class Hello {
         int firstNumber = 5;
 
         System.out.println(firstNumber);
-        
+
     }
 }
